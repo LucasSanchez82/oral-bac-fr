@@ -1,0 +1,117 @@
+[
+    
+    {
+        "title": "L'Homme et la puce",
+        "auteur": "Jean De La Fontaine",
+        "date": "1678",
+        "mouvement": "classicisme",
+        "genre": "fable",
+        "extrait": {
+            "presentation": "presentation",
+            "situer": "Livre VIII"
+        },
+        "resume": {
+            "personnages": "personnages en presence",
+            "cadre": "cadre saption temporel",
+            "actions": "les actions qui se produisent"
+        },
+        "theme": "la veine pretention de l'Homme",
+        "problematique": "Comment Jean De La Fontaine met il en évidence les veines prétentions de l'Homme?",
+        "plan": "Le fabuliste débute par un long prologue du ver 1 au ver 8 dans lequel il fait état de sa considération général à valeur moralisante du ver 9 au ver 16. Il illustre le propos theorique par une histoire concrète"
+    },
+    {
+        "title": "Le torrent et la riviere",
+        "auteur": "Jean De La Fontaine",
+        "date": "1678",
+        "mouvement": "Classicisme",
+        "genre": "fable",
+        "extrait": {
+            "presentation": "presentation",
+            "situer": "Livre VIII"
+        },
+        "resume": {
+            "personnages": "aventurier, des bandits à ses trousses, un torrent et une riviere",
+            "cadre": "cadre saption temporel",
+            "actions": "les actions qui se produyisent"
+        },
+        "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
+        "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
+        "plan": "mn plan sous forme de texte"
+    },
+    {
+        "title": "titre",
+        "auteur": "auteur",
+        "date": "date",
+        "mouvement": "mouvement",
+        "genre": "ex: fable",
+        "extrait": {
+            "presentation": "presentation",
+            "situer": "situer"
+        },
+        "resume": {
+            "personnages": "personnages en presence",
+            "cadre": "cadre saption temporel",
+            "actions": "les actions qui se produyisent"
+        },
+        "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
+        "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
+        "plan": "mn plan sous forme de texte"
+    },
+    {
+        "title": "titre",
+        "auteur": "auteur",
+        "date": "date",
+        "mouvement": "mouvement",
+        "genre": "ex: fable",
+        "extrait": {
+            "presentation": "presentation",
+            "situer": "situer"
+        },
+        "resume": {
+            "personnages": "personnages en presence",
+            "cadre": "cadre saption temporel",
+            "actions": "les actions qui se produyisent"
+        },
+        "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
+        "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
+        "plan": "mn plan sous forme de texte"
+    },
+    {
+        "title": "titre",
+        "auteur": "auteur",
+        "date": "date",
+        "mouvement": "mouvement",
+        "genre": "ex: fable",
+        "extrait": {
+            "presentation": "presentation",
+            "situer": "situer"
+        },
+        "resume": {
+            "personnages": "personnages en presence",
+            "cadre": "cadre saption temporel",
+            "actions": "les actions qui se produyisent"
+        },
+        "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
+        "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
+        "plan": "mn plan sous forme de texte"
+    },
+    {
+        "title": "titre",
+        "auteur": "auteur",
+        "date": "date",
+        "mouvement": "mouvement",
+        "genre": "ex: fable",
+        "extrait": {
+            "presentation": "presentation",
+            "situer": "situer"
+        },
+        "resume": {
+            "personnages": "personnages en presence",
+            "cadre": "cadre saption temporel",
+            "actions": "les actions qui se produyisent"
+        },
+        "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
+        "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
+        "plan": "mn plan sous forme de texte"
+    }
+]
