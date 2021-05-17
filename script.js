@@ -1,8 +1,7 @@
 fetch('data.json')
 .then(response => response.json())
 .then(data => {
-    // console.log(data);
-    // console.log(data.length);
+
     for (let i = 0; i < data.length; i++) {
         // document.querySelector('#container').innerHTML += '<br />';
         document.querySelector('#container').innerHTML += (
@@ -13,7 +12,7 @@ fetch('data.json')
                 <h3>${data[i].date} </h3>
                 <h4>${data[i].mouvement}</h4>
                 <h5>${data[i].genre}</h5>
-                <h6>coucou6</h6>
+                <h6>${data[i].extrait.situer} </h6>
                 <div class='blockImp'>
                     <div class='blockItem'> <span class='theme'>${data[i].theme}</span> </div>
                     <div class='blockItem'> <span class='problematique'>${data[i].problematique}</span> </div>
@@ -26,22 +25,21 @@ fetch('data.json')
         // document.querySelector('#container').innerHTML += 'coucou';
     }
 
-    console.log(document.querySelectorAll('.item'));
+
     let listItems = document.querySelectorAll('.item')
     for (let i = 0; i < listItems.length; i++) {
         listItems[i].addEventListener('click', (data) => {
-            
-            
+
             function fullscreenStyles() {
                 let pathItem = data.path[1].style;
                 let pathFullscreen = data.path[0];
 
                 pathItem.animation = 'none'
-                pathItem.position = 'fixed';
+                pathItem.height = '100vh';
+                pathItem.width = '100vw';
                 pathItem.top = "-5px";
                 pathItem.left = "-5px";
-                pathItem.width = '100vw';
-                pathItem.height = '100vh';
+                pathItem.position = 'fixed';
                 // pathFullscreen.innerHTML = 'EXIT'
                 pathFullscreen.className = 'exit'
             }
@@ -60,10 +58,12 @@ fetch('data.json')
 
             if (data.path[0].className === 'fullscreen') fullscreenStyles() 
             else if (data.path[0].className === 'exit') exitStyles()
-
-            // if (data.path[0].className === 'exit') exitStyles()
         })
-        
+        //fin addeventlisten
     }
+    function lineBreak(module, number, change) {
+        let text = document.querySelectorAll(module)[number].innerText.split(change).join('\n')
+        document.querySelectorAll(module)[number].innerText = text
+    }
+    lineBreak('.plan', 1, '--->')            
 })
-window.scrollbars.visible()
