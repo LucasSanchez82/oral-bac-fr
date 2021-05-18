@@ -97,7 +97,7 @@ h3{
  
 }
 .item{
-    transition: 0.25s;
+    transition: 0.5s;
     width: calc(50vw - 40px);
     display: flex;
     flex-direction: column;
