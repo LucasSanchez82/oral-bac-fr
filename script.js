@@ -66,4 +66,6 @@ fetch('data.json')
         document.querySelectorAll(module)[number].innerText = text
     }
     lineBreak('.plan', 1, '--->')            
+    lineBreak('.plan', 2, '--->')            
+    lineBreak('.plan', 3, '--->')            
 })
