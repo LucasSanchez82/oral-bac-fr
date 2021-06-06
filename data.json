@@ -95,7 +95,25 @@
         "problematique": "Comment Victor Hugo transforme sa mélancolie en révolte politique ?",
         "plan": "-Dans « Melancholia », Victor Hugo dresse un tableau réaliste et tragique du travail de enfants (I) ---> -pour critiquer l’industrialisme, doctrine influente au XIXème siècle qui voit dans le travail industriel un progrès (II) ---> -Cet extrait s’achève comme un véritable réquisitoire contre le travail des enfants (III)"
     },
-    
+    {
+        "title": "Etats en Empires du Soleil",
+        "auteur": "Cyrano de Bergerac",
+        "date": "1662",
+        "mouvement": "mouvement",
+        "genre": "ex: fable",
+        "extrait": {
+            "presentation": "presentation",
+            "situer": "situer"
+        },
+        "resume": {
+            "personnages": "personnages en presence",
+            "cadre": "cadre saption temporel",
+            "actions": "les actions qui se produyisent"
+        },
+        "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
+        "problematique": "quel proces dressent ils de l'Homme ?",
+        "plan": "-De la ligne 1-4: exorde/interpellation du public de manière à séduire le public et le ralliér à sa thèse CAPTATIO BENEVOLENTAE ---> -L 5-16 exposition des arguments de la perdrix(description physique & rapport à la religion) ---> -L 17-18 Perroraison/conclusion du discours"
+    },
     {
         "title": "titre",
         "auteur": "auteur",
@@ -114,7 +132,27 @@
         "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
         "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
         "plan": "mn plan sous forme de texte"
-    },{
+    },
+    {
+        "title": "titre",
+        "auteur": "auteur",
+        "date": "1679",
+        "mouvement": "mouvement",
+        "genre": "ex: fable",
+        "extrait": {
+            "presentation": "presentation",
+            "situer": "situer"
+        },
+        "resume": {
+            "personnages": "personnages en presence",
+            "cadre": "cadre saption temporel",
+            "actions": "les actions qui se produyisent"
+        },
+        "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
+        "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
+        "plan": "mn plan sous forme de texte"
+    },
+    {
         "title": "titre",
         "auteur": "auteur",
         "date": "1679",
