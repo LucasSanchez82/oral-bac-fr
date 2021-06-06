@@ -46,7 +46,7 @@
         "genre": "fable",
         "extrait": {
             "presentation": "presentation",
-            "situer": "situer"
+            "situer": "Livre IX"
         },
         "resume": {
             "personnages": "personnages en presence",
@@ -55,12 +55,51 @@
         },
         "theme": "l'aspect théâtral et tragique durécit",
         "problematique": "Comment Jean De La Fontaine rend son récit théâtral pour miueux plaire à son lecteur ?",
-        "plan": "DU Vers1-4: Introduction avec présentation des personnages ---> -Ver 5-18: Dialogue entre les personnages "
+        "plan": "DU Vers1-4: Introduction avec présentation des personnages ---> -Ver 5-18: Dialogue entre les personnages ---> -Ver 19-20 Denouement malheureux, la Morale"
     },
+    {
+        "title": "elle était déchaussée",
+        "auteur": "Victor Hugo",
+        "date": "1856",
+        "mouvement": "mouvement",
+        "genre": "roman",
+        "extrait": {
+            "presentation": "presentation",
+            "situer": "livre I Aurore"
+        },
+        "resume": {
+            "personnages": "personnages en presence",
+            "cadre": "cadre saption temporel",
+            "actions": "les actions qui se produyisent"
+        },
+        "theme": "La rencontre amoureuse",
+        "problematique": "Comment l auteur met il en scene cette rencontre amoureuse ?",
+        "plan": "-Après avoir évoqué l’apparition de la jeune fille (v1 à 4), ---> -L’auteur expose la rencontre qui a lieu entre elle et le narrateur dans un rapport de séduction (v5 à 12). ---> -Enfin, nous étudierons l’acceptation de l’invitation par la jeune femme (v13 à 16). "
+    },
+    {
+        "title": "\"Où vont donc tous ces enfants...\" à \"Qui fait le peuple libre et rend l'homme heureux !\"",
+        "auteur": "Victor Hugo",
+        "date": "1856",
+        "mouvement": "mouvement",
+        "genre": "roman",
+        "extrait": {
+            "presentation": "presentation",
+            "situer": "Melancholia « Où vont tous ces enfants… » à « et qui rend l’homme heureux ! »livre III « Les luttes et les rêves »"
+        },
+        "resume": {
+            "personnages": "personnages en presence",
+            "cadre": "cadre saption temporel",
+            "actions": "les actions qui se produyisent"
+        },
+        "theme": "la mélancholie tragique de Victor Hugo(au moment de l'ecriture, pas de droit du travail protegeant les enfants)",
+        "problematique": "Comment Victor Hugo transforme sa mélancolie en révolte politique ?",
+        "plan": "-Dans « Melancholia », Victor Hugo dresse un tableau réaliste et tragique du travail de enfants (I) ---> -pour critiquer l’industrialisme, doctrine influente au XIXème siècle qui voit dans le travail industriel un progrès (II) ---> -Cet extrait s’achève comme un véritable réquisitoire contre le travail des enfants (III)"
+    },
+    
     {
         "title": "titre",
         "auteur": "auteur",
-        "date": "date",
+        "date": "1679",
         "mouvement": "mouvement",
         "genre": "ex: fable",
         "extrait": {
@@ -75,30 +114,10 @@
         "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
         "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
         "plan": "mn plan sous forme de texte"
-    },
-    {
+    },{
         "title": "titre",
         "auteur": "auteur",
-        "date": "date",
-        "mouvement": "mouvement",
-        "genre": "ex: fable",
-        "extrait": {
-            "presentation": "presentation",
-            "situer": "situer"
-        },
-        "resume": {
-            "personnages": "personnages en presence",
-            "cadre": "cadre saption temporel",
-            "actions": "les actions qui se produyisent"
-        },
-        "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
-        "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
-        "plan": "mn plan sous forme de texte"
-    },
-    {
-        "title": "titre",
-        "auteur": "auteur",
-        "date": "date",
+        "date": "1679",
         "mouvement": "mouvement",
         "genre": "ex: fable",
         "extrait": {
