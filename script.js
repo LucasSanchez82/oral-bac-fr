@@ -35,12 +35,12 @@ fetch('data.json')
         document.querySelector('#container').innerHTML += (
             `<div class="item">
                 <div class='fullscreen'>  </div>
-                <h1>${data[i].title}</h1> 
-                <h2>${data[i].auteur}</h2>
-                <h3>${data[i].date} </h3>
-                <h4>${mouvement(data[i].date)}</h4>
-                <h5>${data[i].genre}</h5>
-                <h6>${data[i].extrait.situer}</h6>
+                <h1 class='titre' >${data[i].title}</h1> 
+                <h2 class='auteur' >${data[i].auteur}</h2>
+                <h3 class='date' >${data[i].date} </h3>
+                <h4 class='mouvement' >${mouvement(data[i].date)}</h4>
+                <h5 class='genre' >${data[i].genre}</h5>
+                <h6 class='situer' >${data[i].extrait.situer}</h6>
                 <div class='blockImp'>
                     <div class='blockItem'> <span class='theme'>${data[i].theme}</span> </div>
                     <div class='blockItem'> <span class='problematique'>${data[i].problematique}</span> </div>
