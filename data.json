@@ -115,14 +115,14 @@
         "plan": "-De la ligne 1-4: exorde/interpellation du public de manière à séduire le public et le ralliér à sa thèse CAPTATIO BENEVOLENTAE ---> -L 5-16 exposition des arguments de la perdrix(description physique & rapport à la religion) ---> -L 17-18 Perroraison/conclusion du discours"
     },
     {
-        "title": "titre",
-        "auteur": "auteur",
-        "date": "1679",
+        "title": "La pricesse de cléves ",
+        "auteur": "Mme de la fayette ",
+        "date": "1678",
         "mouvement": "mouvement",
-        "genre": "ex: fable",
+        "genre": "roman",
         "extrait": {
             "presentation": "presentation",
-            "situer": "situer"
+            "situer": "\"Il nous faut nous quitter, ma fille  \" à \"je reçois la mort avec joie,pour n'en aitre pas temoin \"" 
         },
         "resume": {
             "personnages": "personnages en presence",
@@ -130,13 +130,13 @@
             "actions": "les actions qui se produyisent"
         },
         "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
-        "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
-        "plan": "mn plan sous forme de texte"
+        "problematique": "Comment Mme de chartre  exorte t'elle sa fille a faire taire ses sentiments ? ",
+        "plan": "-1er mouvement:l'exorde de ''Il faut nous quitter, ma fille...'' à''que j'ai de vous quitter...'': sorte d'itroduction aux adieu ---> -2 émé mouvement, la narration de ''Vous avez de l'inclination...'' à '' ... pour vous retenir '' : develope le sujet pricipal du discourd, a savoir la pasion ammoureuse entre la pricesse et le DUC ---> -3émé mouvement, la réfutation de '' songez ce que vous devez...'' à ''... Malheurs d'une galanterie'': Conseil pour resister a cette pasion ---> -4éme mouvement, la péjoration, de '' Si d'autre raison ...'' à ''... pas le temoin'': dernier argument,le plus fort et conclusion    "
     },
     {
-        "title": "titre",
-        "auteur": "auteur",
-        "date": "1679",
+        "title": "La pricesse de cléves ",
+        "auteur": "Mme de la fayette ",
+        "date": "1678",
         "mouvement": "mouvement",
         "genre": "ex: fable",
         "extrait": {
@@ -148,16 +148,16 @@
             "cadre": "cadre saption temporel",
             "actions": "les actions qui se produyisent"
         },
-        "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
-        "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
-        "plan": "mn plan sous forme de texte"
+        "theme": " Passion  amoureuse ",
+        "problematique": "En quoi cet extrait montre t'il un combat interieur entre la pasion et la raison ? Comment la raison semble t'elle l'emporter sur la pasion amoureuse ?",
+        "plan": "-1er mouvement de''elle avais ignoré'' à ''... Q'uil en aimait une autre''a la ligne 3 le ---> -2éme mouvement de '' Q'uoi que les soupçons....''ligne 3 à '' Contente de sa pasion'' ligne 9 ---> -le 3 éme mouvement de ''Mais quand je le pourrait être'' ligne 9 à ''... Douleur que donnent l'amour?'' ligne 12 ---> -Mouvement 4 de '' Je suis vaincue...'' ligne 12  à '' de ce que je résolue hier ''  ligne 14 ---> -et le 5 émé mouvement de ''Il faut m'arracher...''ligne 14  à ''...de les luis apprendre''ligne 17  " 
     },
     {
-        "title": "titre",
-        "auteur": "auteur",
-        "date": "1679",
+        "title": "Le malade imaginaire",
+        "auteur": "Moliére ",
+        "date": "1673",
         "mouvement": "mouvement",
-        "genre": "ex: fable",
+        "genre": "théatre ",
         "extrait": {
             "presentation": "presentation",
             "situer": "situer"
@@ -167,8 +167,8 @@
             "cadre": "cadre saption temporel",
             "actions": "les actions qui se produyisent"
         },
-        "theme": "theme traite par l'extrait: exemple l'agonie du protagoniste; rencontre amoureuse etc...",
-        "problematique": "exple: comment le fabuliste met il en scene la pretention du roi ?",
-        "plan": "mn plan sous forme de texte"
+        "theme": "Comedie destiné au spectateur et a lui plaire et reflechir le lecteur ",
+        "problematique": "En quoi ette scene est elle destiné a plaire et faire reflechir le lecteur ?",
+        "plan": "-Le premier intermée: Voit intervenir un personnege boufon de la Comedia  dell'arte,Polichinelle d'inspiration italiene, il rappelle la tonalité comique et farces que que détien cette comédie --> -Le deuxiéme interméde: fait intervenir un hymne des Mores à la jenesse,le théme de cette chanson en est la jeunesse ---> -intermède 3: se distingue par la mise en place d'une cérémonie carnavalesque pour la remise de diplôme de médecine. Les marques de l'ironie sont ici remarcable à travers les paroles des médecin organisant le cérémonie   "
     }
 ]
