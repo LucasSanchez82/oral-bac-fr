@@ -62,8 +62,8 @@ h3{
 .blockImp{
     /* border: 3px solid white; */
     border-radius: 10px;
-    margin: 5px;
-    padding: 5px;
+    margin: 5px 5px 25px 5px;
+    /* padding: 5px 5px 0px 5px; */
     background-color: #3a3e5f;
 }
 .blockItem{
@@ -71,9 +71,8 @@ h3{
     background-color: #1c1e30;
     padding: 5px;
     text-align: center;
-    margin: 2px 0 10px 0;
+    margin: 7px;
     border-radius: 5px;
-    color: #fff;
     font-family: 'DancingScript';
     font-size: 25px;
 }
@@ -102,8 +101,8 @@ h3{
     align-items: center;
     border-radius: 15px;
     padding: 10px;
+    padding-bottom: 15px;
     margin: 3px;
-    /* height: 100px; */
     background-color: rgb(33, 31, 54);
     font-size: 12px;
 }
@@ -146,24 +145,6 @@ img{
     flex-direction: column;
     align-items: start;
 }
-/* .titre::before{
-    content: "Titre: ";
-}
-.date::before{
-    content: "Date: ";    
-}
-.auteur::before{
-    content: "Auteur: ";    
-}
-.mouvement::before{
-    content: "Mouvement: ";    
-}
-.genre::before{
-    content: "Genre: ";    
-}
-.situer::before{
-    content: "Situer: ";    
-} */
 .problematique::before{
     content: "Problématique: ";    
 }
@@ -174,6 +155,21 @@ img{
     content: "Thème: ";    
 }
 
+
+
+
+
+#myInput {
+
+    width: calc(100% - 100px); /* Full-width */
+    margin: 10px;
+    text-align: center;
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    border-radius: 50px;
+    /* margin-bottom: 12px; Add some space below the input */
+}
 
 @keyframes buttonAnimation{
     0% {
