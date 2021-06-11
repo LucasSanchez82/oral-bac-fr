@@ -4,8 +4,7 @@ function searchBar() {
     block = document.querySelectorAll('.item'); // ✔
     input = document.getElementById('myInput'); // ✔
     filter = input.value.toUpperCase(); // ✔
-    ul = document.getElementById("myUL");
-  
+    
     // Loop through all list items, and hide those who don't match the search query
     for (i = 0; i < block.length; i++) {
       h1 = block[i].getElementsByTagName("h1")[0];
