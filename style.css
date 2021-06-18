@@ -144,6 +144,7 @@ img{
     display: flex;
     flex-direction: column;
     align-items: start;
+    text-align: center;
 }
 .problematique::before{
     content: "Problématique: ";    
