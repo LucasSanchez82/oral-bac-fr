@@ -100,7 +100,7 @@
         "auteur": "Cyrano de Bergerac",
         "date": "1662",
         "mouvement": "mouvement",
-        "genre": "ex: fable",
+        "genre": "fable",
         "extrait": {
             "presentation": "presentation",
             "situer": "situer"
@@ -117,7 +117,7 @@
     {
         "title": "La princesse de clèves ",
         "auteur": "Mme de la fayette ",
-        "date": "1661",
+        "date": "1678",
         "mouvement": "mouvement",
         "genre": "roman",
         "extrait": {
@@ -136,7 +136,7 @@
     {
         "title": "La princesse de clèves ",
         "auteur": "Mme de la fayette ",
-        "date": "1661",
+        "date": "1678",
         "mouvement": "mouvement",
         "genre": "ex: fable",
         "extrait": {
