@@ -5,9 +5,9 @@ fetch('data.json')
         console.log(date);
         if (1549<date && date<1570) {
             return "pléiade"
-        }else if(1570<date && date<1600){
+        }else if(1570<date && date<1669){
             return "baroque"
-        }else if(1650<date && date<1700){
+        }else if(1670<date && date<1700){
             return "classicisme"
         }else if(1720<date && date<1770){
             return "les lumières"
